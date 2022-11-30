@@ -14,7 +14,7 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 
 Projeto fonte e base https://github.com/cassianobrexbit/dio-live-serverless-2907
 
-Neste projeto vamos criar uma infraestrutra em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code. :cloud::cloud:
+Neste projeto vamos criar uma infraestrutura em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento baseada em Infraestrutura as a Code. :cloud::cloud:
 
 ## Etapas
 
